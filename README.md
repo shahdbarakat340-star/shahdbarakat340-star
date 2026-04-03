@@ -24,7 +24,7 @@ I am passionate about programming and software development, and I’m constantly
 ## 📂 Projects
 ### 🔹 Project 1
 Short description of your project  
-🔗 [https://shahdbarakat340-star.github.io/First-Project-For-Angel/](#)
+🔗 [🔗 [View Project](https://github.com/shahdbarakat340-star/Favourite-Project)](#)
 
 ### 🔹 Project 2
 Short description of your project  
