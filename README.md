@@ -1,8 +1,8 @@
 # 👩‍💻 Shahd Barakat
 
 ## 🚀 About Me
-مرحبا! أنا شهد بركات، طالبة هندسة معلوماتية 💻  
-مهتمة بمجال البرمجة وتطوير التطبيقات، وأسعى لتطوير مهاراتي وبناء مشاريع مميزة.
+Hello! I'm Shahd Barakat, a Computer Engineering student 💻  
+I am passionate about programming and software development, and I’m constantly working on improving my skills and building meaningful projects.
 
 ---
 
@@ -11,7 +11,7 @@
   C++ | Python | Java | JavaScript
 
 - 🌐 Web Development:  
-  HTML | CSS | React (إذا بتستخدميه)
+  HTML | CSS | React
 
 - 🗄️ Databases:  
   MySQL | MongoDB
@@ -23,11 +23,11 @@
 
 ## 📂 Projects
 ### 🔹 Project 1
-وصف بسيط عن المشروع  
+Short description of your project  
 🔗 [View Project](#)
 
 ### 🔹 Project 2
-وصف بسيط عن المشروع  
+Short description of your project  
 🔗 [View Project](#)
 
 ---
@@ -44,4 +44,4 @@
 
 ---
 
-⭐️ لا تنسوا تعملوا Star للمشاريع إذا عجبتكم!
+⭐️ Feel free to check out my projects and give them a star if you like them!
