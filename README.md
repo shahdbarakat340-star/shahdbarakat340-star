@@ -28,7 +28,7 @@ Short description of your project
 
 ### 🔹 Project 2
 Short description of your project  
-🔗 [https://shahdbarakat340-star.github.io/Favourite-Project/](#)
+🔗 [🔗 [View Project](https://github.com/shahdbarakat340-star/First-Project-for-Angel)](#)
 
 ---
 
