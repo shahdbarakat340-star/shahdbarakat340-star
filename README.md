@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I am Shahd👋
 
 <!--
 **shahdbarakat340-star/shahdbarakat340-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
