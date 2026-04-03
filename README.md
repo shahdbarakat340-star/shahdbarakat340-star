@@ -33,9 +33,9 @@ Short description of your project
 ---
 
 ## 📫 Contact Me
-- 📧 Email: your-email@example.com  
+- 📧 Email:shahdbarakat340gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/your-profile  
-- 🐱 GitHub: https://github.com/your-username  
+- 🐱 GitHub: https://github.com/shahdbarakat340-star  
 
 ---
 
